@@ -1,0 +1,12 @@
+# Ignore artifacts:
+/node-modules
+
+
+
+# ENV files
+/.env
+
+/
+
+
+
