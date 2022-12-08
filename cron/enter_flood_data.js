@@ -4,7 +4,7 @@ const Entities = require('html-entities').AllHtmlEntities;
 const entities = new Entities();
 
 //const path_1 = "./customer_template.xls";
-const path = './flood-data.xls';
+const path = './flood.xls';
 try {
 	node_xj = require('xls-to-json-lc');
 	node_xj(
