@@ -3,7 +3,7 @@ const Config = require('./config');
 const initOptions = {
 	promiseLib: Promise,
 	query(e) {
-		 console.log(e.query);
+		 //console.log(e.query);
 	},
 	error(error, e) {
 		console.log("hello i a,m in ");
