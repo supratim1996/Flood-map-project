@@ -30,7 +30,7 @@
     "frameguard": "^4.0.0",
     "fs": "^0.0.1-security",
     "helmet": "^6.0.1",
-    "html-entities": "^1.2.1",
+    "html-entities": "^1.4.0",
     "http": "^0.0.1-security",
     "http-errors": "^2.0.0",
     "morgan": "^1.10.0",
